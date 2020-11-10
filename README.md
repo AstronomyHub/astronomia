@@ -1,5 +1,23 @@
 # astronomia
 
+## 微信小程序 安装方式
+
+npm install --save astronomia
+
+项目设置开启：使用npm
+
+npm init
+
+- 输入astronomia，然后一路确认，最后输入yes
+
+工具-》构建npm
+
+const base = require('astronomia').base 引用
+
+
+
+
+
 > An astronomical library
 
 [![NPM version](https://badge.fury.io/js/astronomia.svg)](https://www.npmjs.com/package/astronomia/)
